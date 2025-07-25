@@ -1,0 +1,20 @@
+{
+  "version": 1.0,
+  "licenses": [
+    {
+      "cif_nif": "A12345678",
+      "client_name": "Taller de Prueba 1",
+      "status": "active"
+    },
+    {
+      "cif_nif": "B87654321",
+      "client_name": "Mecánica Veloz S.L.",
+      "status": "active"
+    },
+    {
+      "cif_nif": "C55555555",
+      "client_name": "Taller Anulado",
+      "status": "inactive"
+    }
+  ]
+}
