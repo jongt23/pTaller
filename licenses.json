@@ -1,18 +1,18 @@
 {
-  "version": 1.0,
+  "version": 2.0,
   "licenses": [
     {
-      "cif_nif": "06c35d170bd81e4bab2ddd79a9fd32d962be3036bcfc189b4e48099078e276f2",
+      "license_hash": "06c35d170bd81e4bab2ddd79a9fd32d962be3036bcfc189b4e48099078e276f2",
       "client_name": "Taller de Prueba 1",
       "status": "active"
     },
     {
-      "cif_nif": "B87654321",
+      "license_hash": "f9e8d7c6...",
       "client_name": "Mecánica Veloz S.L.",
       "status": "active"
     },
     {
-      "cif_nif": "C55555555",
+      "license_hash": "b3a2c1d0...",
       "client_name": "Taller Anulado",
       "status": "inactive"
     }
